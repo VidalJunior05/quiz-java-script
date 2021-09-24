@@ -116,3 +116,8 @@ h1 {
 .scoreArea button:hover {
     background-color: rgba(0, 0, 0, 0.4);
 }
+@media only screen and (max-width: 520px){
+   .questionArea{
+    width:90%;
+   }
+}
